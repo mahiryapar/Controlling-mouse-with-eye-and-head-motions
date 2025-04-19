@@ -44,7 +44,7 @@ pip install opencv-python mediapipe pyautogui keyboard pillow
 Ardından Python dosyasını çalıştırın:
 
 ```bash
-python goz_takip.py
+python eye_tracker.py
 ```
 
 > Kamera açıldıktan sonra gözünüzü ortalayarak takibi başlatabilirsiniz. Takip durumunu açmak/kapatmak için iki gözünüzü belirlenen süre boyunca kapatmanız yeterlidir.
@@ -52,10 +52,6 @@ python goz_takip.py
 ## ⌨️ Kısayollar
 
 - `Ctrl + Shift + L` : Takip başlat / durdur
-
-## 📸 Ekran Görüntüsü
-
-> *(Buraya arayüzden alınan bir ekran görüntüsünü ekleyebilirsin.)*
 
 ## 📩 İletişim
 
